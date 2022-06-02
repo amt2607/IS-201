@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(99, 0, 0);
+    background-color: rgb(255, 255, 186);
+   
+}
+
+li {
+    font-size: 14px;
+    font-style: italic;
+    color:pink;
+    background-color: orange;
+    font-weight: normal;
+
+}
+
+a {
+    Color: navy
+
+}
+
+h4 {
+    color: darkslategray;
+
+}
+
+.Resumelistheading {
+    font-weight: bold;
+    font-style: Normal;
+}
+
+.underline {text-decoration: underline;
+
+}
+.bold {font-weight: bold;
+
+}
+
+.justify {
+    text-align: justify;
+}
