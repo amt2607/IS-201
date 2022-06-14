@@ -177,3 +177,18 @@ h4 {
     
     
 }
+.footerA {
+    top: 1985px;
+    padding-bottom: 9px;
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 1px #555555;
+    border-right: solid 1px #555555;
+    border-top: solid 1px #555555;
+    border-left: solid 1px #555555;
+    background-color: lightgrey;
+    
+}
